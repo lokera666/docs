@@ -6903,6 +6903,26 @@ gatsby-theme-apollo-core@^3.0.23:
     react-helmet "^5.2.0"
     react-use "^9.11.0"
 
+gatsby-theme-apollo-core@^3.0.37:
+  version "3.0.37"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-apollo-core/-/gatsby-theme-apollo-core-3.0.37.tgz#42dee6d6f95e034cc51b55d7836d7f53f107df6d"
+  integrity sha512-AaNLVXYYR85IxuSD1fe1rigkml0F6Ma2QHyHtvzR+h30hok477dY469RrITPXTkV4MKzZiNRwSFATV7uN4h2Qw==
+  dependencies:
+    "@apollo/space-kit" "^5.6.0"
+    "@emotion/core" "^10.0.7"
+    "@emotion/styled" "^10.0.7"
+    "@svgr/webpack" "^4.2.0"
+    gatsby-plugin-emotion "^4.0.3"
+    gatsby-plugin-less "^3.0.1"
+    gatsby-plugin-react-helmet "^3.0.2"
+    gatsby-plugin-svgr "^2.0.1"
+    less "^3.10.1"
+    lodash "^4.17.14"
+    polished "^2.3.3"
+    prop-types "^15.6.2"
+    react-helmet "^5.2.0"
+    react-use "^9.11.0"
+
 gatsby-theme-apollo-docs@4.5.12:
   version "4.5.12"
   resolved "https://registry.yarnpkg.com/gatsby-theme-apollo-docs/-/gatsby-theme-apollo-docs-4.5.12.tgz#0a3d1b04183d3d0eec7edc6d6f9a0c58445b694d"
