@@ -16,10 +16,10 @@
     tinycolor2 "^1.4.1"
     tslib "^1.10.0"
 
-"@apollo/space-kit@^8.7.2":
-  version "8.7.2"
-  resolved "https://registry.yarnpkg.com/@apollo/space-kit/-/space-kit-8.7.2.tgz#04176a2d2bfdefe4f3cde8b3a4d9c7e9aeb56f8c"
-  integrity sha512-c0bpXbK8jk+nCbo7UhxR9CzV+3gcRov7LCVznEWtARG+6zzHcwQriAAc8s4xNpHG0nz+Qv47bfy+YiLSb/PWAA==
+"@apollo/space-kit@^8.22.1":
+  version "8.22.1"
+  resolved "https://registry.yarnpkg.com/@apollo/space-kit/-/space-kit-8.22.1.tgz#54d9aebea25cb924bf2b38c6fa26244f0777d449"
+  integrity sha512-LUt2P6aw4q2pmbGThELKoXFCCFKlGRfvTvyfoM3mL2rflkhrDJIEF86vnw3zy18hCvjddd6mOOikuzumYcbNkA==
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@react-aria/focus" "^3.1.0"
